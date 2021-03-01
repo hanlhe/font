@@ -1,0 +1,43 @@
+/* i really want this to be global */
+
+@import url("https://cdn.jsdelivr.net/gh/hanlhe/font@fc727a1/style.css");
+
+/* Everything */
+*,
+body,
+body *,
+span {
+  text-rendering: optimizeLegibility;
+  font-family: "Latin Modern Sans Web", "Glow Sans SC Web", -apple-system,
+    system-ui, BlinkMacSystemFont, "Segoe UI";
+}
+
+.markdown code,
+.text-mono,
+.text-mono *,
+/* GitHub code */
+.blob-code-inner,
+.blob-code-inner *,
+/* GitHub PR branch name */
+.commit-ref,
+.commit-ref *,
+/* Generic */
+input,
+select,
+textarea,
+code, code *,
+pre, pre *,
+tt, tt * {
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  font-family: "Iosevka Web", "Sarasa Mono CL Web", Consolas, Menlo, monospace,
+    monospace !important;
+}
+
+/* GitHub comment body */
+.comment-body,
+/* Generic */
+body,
+p {
+  font-size: 1rem;
+}
