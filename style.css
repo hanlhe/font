@@ -59,14 +59,14 @@
 
 /* Glow Sanse SC */
 @font-face {
-  font-family: "Glow Sanse SC Web";
+  font-family: "Glow Sans SC Web";
   font-weight: normal;
   font-style: normal;
   src: url("./woff2/GlowSansSC-Normal-Regular.woff2") format("woff2"),
 }
 
 @font-face {
-  font-family: "Glow Sanse SC Web";
+  font-family: "Glow Sans SC Web";
   font-weight: bold;
   font-style: normal;
   src: url("./woff2/GlowSansSC-Normal-Bold.woff2") format("woff2"),
