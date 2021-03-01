@@ -1,3 +1,4 @@
+/* Iosevka */
 @font-face {
   font-family: "Iosevka Web";
   font-weight: normal;
@@ -7,6 +8,7 @@
     url("./ttf/iosevka-regular.ttf") format("truetype");
 }
 
+/* Laton Modern */
 @font-face {
   font-family: "Latin Modern Sans Web";
   font-weight: normal;
@@ -53,4 +55,19 @@
   font-style: italic;
   src: url("./woff/lmsans10-boldoblique-webfont.woff") format("woff"),
     url("./ttf/lmsans10-boldoblique-webfont.ttf") format("truetype");
+}
+
+/* Glow Sanse SC */
+@font-face {
+  font-family: "Glow Sanse SC Web";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./woff2/GlowSansSC-Normal-Bold.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: "Glow Sanse SC Web";
+  font-weight: bold;
+  font-style: normal;
+  src: url("./woff2/GlowSansSC-Normal-Bold.woff2") format("woff2"),
 }
