@@ -38,3 +38,19 @@
   src: url("./woff/lmsans10-boldoblique-webfont.woff") format("woff"),
     url("./ttf/lmsans10-boldoblique-webfont.ttf") format("truetype");
 }
+
+@font-face {
+  font-family: "Latin Modern Sans Web";
+  font-weight: normal;
+  font-style: italic;
+  src: url("./woff/lmsans10-oblique-webfont.woff") format("woff"),
+    url("./ttf/lmsans10-oblique-webfont.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Latin Modern Sans Web";
+  font-weight: bold;
+  font-style: italic;
+  src: url("./woff/lmsans10-boldoblique-webfont.woff") format("woff"),
+    url("./ttf/lmsans10-boldoblique-webfont.ttf") format("truetype");
+}
