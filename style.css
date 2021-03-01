@@ -8,6 +8,16 @@
     url("./ttf/iosevka-regular.ttf") format("truetype");
 }
 
+/* Sarasa Gothic */
+@font-face {
+  font-family: "Sarasa Mono CL Web";
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("./woff2/sarasa-mono-cl-regular.woff2") format("woff2"),
+    url("./ttf/sarasa-mono-cl-regular.ttf") format("truetype");
+}
+
 /* Laton Modern */
 @font-face {
   font-family: "Latin Modern Sans Web";
